@@ -1,0 +1,238 @@
+/*
+    Font name - Bokonique
+    Created by Renderforest
+    More info - https://armenia.renderforest.com/eng-pages/bokonique.html
+    Hosted by Paruyr Mamikonyan
+*/
+@font-face {
+  font-family: "Bokonique";
+  src: url("http://api.mamikonyan.io/fonts/Bokonique/Bokonique-Regular.woff")
+    format("woff");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Bokonique";
+  src: url("http://api.mamikonyan.io/fonts/Bokonique/Bokonique-Light.woff")
+    format("woff");
+  font-weight: 100;
+}
+@font-face {
+  font-family: "Bokonique";
+  src: url("http://api.mamikonyan.io/fonts/Bokonique/Bokonique-Bold.woff")
+    format("woff");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Bokonique";
+  src: url("http://api.mamikonyan.io/fonts/Bokonique/Bokonique-Regular_Italic.woff")
+    format("woff");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Bokonique";
+  src: url("http://api.mamikonyan.io/fonts/Bokonique/Bokonique-Light_Italic.woff")
+    format("woff");
+  font-weight: 100;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Bokonique";
+  src: url("http://api.mamikonyan.io/fonts/Bokonique/Bokonique-Bold_Italic.woff")
+    format("woff");
+  font-weight: 700;
+  font-style: italic;
+}
+
+/*
+    Font name - Grqalir
+    Created by Renderforest
+    More info - https://armenia.renderforest.com/eng-pages/grqalir.html
+    Hosted by Paruyr Mamikonyan
+*/
+@font-face {
+  font-family: "Grqalir";
+  src: url("http://api.mamikonyan.io/fonts/Grqalir/Grqalir-Regular.woff")
+    format("woff");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Grqalir";
+  src: url("http://api.mamikonyan.io/fonts/Grqalir/Grqalir-Italic.woff")
+    format("woff");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Grqalir";
+  src: url("http://api.mamikonyan.io/fonts/Grqalir/Grqalir-Bold.woff")
+    format("woff");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Grqalir";
+  src: url("http://api.mamikonyan.io/fonts/Grqalir/Grqalir-Bold_Italic.woff")
+    format("woff");
+  font-weight: 700;
+  font-style: italic;
+}
+
+/*
+    Font name - Nicolo
+    Created by Renderforest
+    More info - https://armenia.renderforest.com/eng-pages/nikolo.html
+    Hosted by Paruyr Mamikonyan
+*/
+@font-face {
+  font-family: "Nicolo";
+  src: url("http://api.mamikonyan.io/fonts/Nicolo/Nicolo-Regular.woff")
+    format("woff");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Nicolo";
+  src: url("http://api.mamikonyan.io/fonts/Nicolo/Nicolo-Italic.woff")
+    format("woff");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Nicolo";
+  src: url("http://api.mamikonyan.io/fonts/Nicolo/Nicolo-Bold.woff")
+    format("woff");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Nicolo";
+  src: url("http://api.mamikonyan.io/fonts/Nicolo/Nicolo-Bold_Italic.woff")
+    format("woff");
+  font-weight: 700;
+  font-style: italic;
+}
+
+/*
+    Font name - Nortar
+    Created by Renderforest
+    More info - https://armenia.renderforest.com/eng-pages/nortar.html
+    Hosted by Paruyr Mamikonyan
+*/
+@font-face {
+  font-family: "Nortar";
+  src: url("http://api.mamikonyan.io/fonts/Nortar/Nortar-Regular.woff")
+    format("woff");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Nortar";
+  src: url("http://api.mamikonyan.io/fonts/Nortar/Nortar-Italic.woff")
+    format("woff");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Nortar";
+  src: url("http://api.mamikonyan.io/fonts/Nortar/Nortar-Bold.woff")
+    format("woff");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Nortar";
+  src: url("http://api.mamikonyan.io/fonts/Nortar/Nortar-Bold_Italic.woff")
+    format("woff");
+  font-weight: 700;
+  font-style: italic;
+}
+
+/*
+    Font name - Yerevanyan
+    Created by Renderforest
+    More info - https://armenia.renderforest.com/eng-pages/yerevanyan.html
+    Hosted by Paruyr Mamikonyan
+*/
+@font-face {
+  font-family: "Yerevanyan";
+  src: url("http://api.mamikonyan.io/fonts/Yerevanyan/Yerevanyan-Regular.woff")
+    format("woff");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Yerevanyan";
+  src: url("http://api.mamikonyan.io/fonts/Yerevanyan/Yerevanyan-Italic.woff")
+    format("woff");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Yerevanyan";
+  src: url("http://api.mamikonyan.io/fonts/Yerevanyan/Yerevanyan-Bold.woff")
+    format("woff");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Yerevanyan";
+  src: url("http://api.mamikonyan.io/fonts/Yerevanyan/Yerevanyan-Bold_Italic.woff")
+    format("woff");
+  font-weight: 700;
+  font-style: italic;
+}
+
+/*
+    Font name - Noto Sans
+    Created by Google
+    More info - https://www.google.com/get/noto/#sans-armn
+    Hosted by Paruyr Mamikonyan
+*/
+@font-face {
+  font-family: "Noto Sans";
+  src: url("http://api.mamikonyan.io/fonts/Noto-Sans/NotoSansArmenian-Thin.woff")
+    format("woff");
+  font-weight: 100;
+}
+@font-face {
+  font-family: "Noto Sans";
+  src: url("http://api.mamikonyan.io/fonts/Noto-Sans/NotoSansArmenian-ExtraLight.woff")
+    format("woff");
+  font-weight: 200;
+}
+@font-face {
+  font-family: "Noto Sans";
+  src: url("http://api.mamikonyan.io/fonts/Noto-Sans/NotoSansArmenian-Light.woff")
+    format("woff");
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Noto Sans";
+  src: url("http://api.mamikonyan.io/fonts/Noto-Sans/NotoSansArmenian-Regular.woff")
+    format("woff");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Noto Sans";
+  src: url("http://api.mamikonyan.io/fonts/Noto-Sans/NotoSansArmenian-Medium.woff")
+    format("woff");
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Noto Sans";
+  src: url("http://api.mamikonyan.io/fonts/Noto-Sans/NotoSansArmenian-SemiBold.woff")
+    format("woff");
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Noto Sans";
+  src: url("http://api.mamikonyan.io/fonts/Noto-Sans/NotoSansArmenian-Bold.woff")
+    format("woff");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Noto Sans";
+  src: url("http://api.mamikonyan.io/fonts/Noto-Sans/NotoSansArmenian-ExtraBold.woff")
+    format("woff");
+  font-weight: 800;
+}
+@font-face {
+  font-family: "Noto Sans";
+  src: url("http://api.mamikonyan.io/fonts/Noto-Sans/NotoSansArmenian-Black.woff")
+    format("woff");
+  font-weight: 900;
+}
